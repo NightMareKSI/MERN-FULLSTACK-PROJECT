@@ -72,13 +72,6 @@ To get started with the assignment project, follow these steps:
     ```bash
     nodemon server.js
     ```
-
-
-
-<h2>🍰 Contribution Guidelines:</h2>
-
-Any contributor who wishes to contribute to this project should first read the README thoroughly. Study how the project is built and done, familiarize yourself with its structure and components. Take note of any bugs present in the project. If you find any raise an issue on the project's repository. Wait until a mentor assigns the issue to you. Once assigned start working on the development of the fix or improvement. After completing the development raise a pull request (PR) for the changes to be reviewed and merged into the project.
-
   
   
 <h2>💻 Built with</h2>
